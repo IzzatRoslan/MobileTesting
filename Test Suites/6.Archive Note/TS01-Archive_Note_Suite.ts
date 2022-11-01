@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS01-Archive_Note_Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>d61a8e20-e4a7-4af3-bcb9-15591fd96d00</testSuiteGuid>
+   <testCaseLink>
+      <guid>d388a552-a4ad-4ea1-970d-f78501dd1841</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/6.ArchiveNote/TC01-Successfully_Archive_Note</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>082b09ad-478f-4956-b57a-d14e2d1f3c03</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d281f3c2-cd79-473a-b9c0-72834858e569</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/6.ArchiveNote/TC02-Successfully_Archive_Checklist_Note</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a078b26d-233f-4b44-8e9b-3724f2941a9f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

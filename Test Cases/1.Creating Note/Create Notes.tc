@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Notes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd746191-e2be-4b07-a71f-6ef2319f5e50</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>21e58e38-79b6-491f-92e7-d95965fc9f84</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'This is for testing purposes'</defaultValue>
+      <description></description>
+      <id>21e58e38-79b6-491f-92e7-d95965fc9f84</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

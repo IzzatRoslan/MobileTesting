@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-Successfully_Archive_Note</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd1f4ec4-e1ef-4023-ae46-f8518a60d387</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>082b09ad-478f-4956-b57a-d14e2d1f3c03</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'This is for testing purposes'</defaultValue>
+      <description></description>
+      <id>082b09ad-478f-4956-b57a-d14e2d1f3c03</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

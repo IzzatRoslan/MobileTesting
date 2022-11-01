@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02-Successfully_Set_Reminder_Checklist_Note</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d84a0cac-43d7-41d9-9f3a-8db6a48269c0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8ac3317c-0a8f-4e91-9dea-ca54e6d597b5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Do Laundry'</defaultValue>
+      <description></description>
+      <id>8ac3317c-0a8f-4e91-9dea-ca54e6d597b5</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

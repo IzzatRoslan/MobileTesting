@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Checklist Note</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21abaf88-27dc-42f3-8c18-2e724cd9bc71</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4607dc1f-810e-4383-9d36-6d558963fb26</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'DO LAUNDRY'</defaultValue>
+      <description></description>
+      <id>4607dc1f-810e-4383-9d36-6d558963fb26</id>
+      <masked>false</masked>
+      <name>checklist</name>
+   </variable>
+</TestCaseEntity>

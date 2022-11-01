@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-Successfuly_Set_Reminder_Text_Note</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf42007a-17f4-4a3a-9b82-88abf1cceb8c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0adf4c37-510a-4a1a-81f0-b5cc51cc442b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Set Note Reminder Testing'</defaultValue>
+      <description></description>
+      <id>0adf4c37-510a-4a1a-81f0-b5cc51cc442b</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

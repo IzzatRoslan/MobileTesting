@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02-Successfully_Create_Checklist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e50e2df-b31b-4df5-90bf-333f239c473c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ab743f4d-9262-4ec6-823e-103b6981c7be</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'DO LAUNDRY'</defaultValue>
+      <description></description>
+      <id>ab743f4d-9262-4ec6-823e-103b6981c7be</id>
+      <masked>false</masked>
+      <name>checklist</name>
+   </variable>
+</TestCaseEntity>

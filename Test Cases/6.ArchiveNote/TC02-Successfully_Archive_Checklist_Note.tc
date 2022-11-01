@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02-Successfully_Archive_Checklist_Note</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99bbb83b-baae-4c10-a12b-2370d8534ac8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a078b26d-233f-4b44-8e9b-3724f2941a9f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TEST6'</defaultValue>
+      <description></description>
+      <id>a078b26d-233f-4b44-8e9b-3724f2941a9f</id>
+      <masked>false</masked>
+      <name>checklist</name>
+   </variable>
+</TestCaseEntity>

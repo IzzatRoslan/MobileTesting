@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS01-Set_Reminder_Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>08099be6-d8f7-4df0-af27-c57c80c020eb</testSuiteGuid>
+   <testCaseLink>
+      <guid>343f7932-4d89-4f83-b59b-035112d4f376</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/3.Set Reminder/TC01-Successfuly_Set_Reminder_Text_Note</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0adf4c37-510a-4a1a-81f0-b5cc51cc442b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>249e15a8-f1fa-41bf-a3da-7cd7dad5e6af</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/3.Set Reminder/TC02-Successfully_Set_Reminder_Checklist_Note</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8ac3317c-0a8f-4e91-9dea-ca54e6d597b5</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

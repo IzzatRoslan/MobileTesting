@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02-Delete_Checklist_Note</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45b480b1-2d58-4e8c-aacb-2be28ec0e85d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d81524c0-527d-4715-8364-5f2485ffd809</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TEST2'</defaultValue>
+      <description></description>
+      <id>d81524c0-527d-4715-8364-5f2485ffd809</id>
+      <masked>false</masked>
+      <name>checklist</name>
+   </variable>
+</TestCaseEntity>

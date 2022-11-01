@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-Delete_Text_Note</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b699b31c-cebf-4ebc-ab8b-a4374154a36d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>efc3ff84-f942-484f-bfb7-eda225522cbb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TEST1'</defaultValue>
+      <description></description>
+      <id>efc3ff84-f942-484f-bfb7-eda225522cbb</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-User_Found_Searched_Words</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ae01715-56c5-49d8-8ce6-ed9b30fec0a2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>efcff777-0e72-43a8-b2fe-df4b79fd02c0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test1'</defaultValue>
+      <description></description>
+      <id>efcff777-0e72-43a8-b2fe-df4b79fd02c0</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

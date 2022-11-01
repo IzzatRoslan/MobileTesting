@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-Successfully_Create Simple_Text Note</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4a358f1-a750-4c22-833a-350ecfd11d95</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>160cd884-c3a4-47ef-bc80-679cd59f2159</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'This is for testing purposes'</defaultValue>
+      <description></description>
+      <id>160cd884-c3a4-47ef-bc80-679cd59f2159</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>
